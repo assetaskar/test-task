@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.row {
+  display: flex;
+}
+.col {
+  flex-basis: 100%;
+}
+.items-center {
+  align-items: center;
+}
+.no-wrap {
+  flex-wrap: nowrap;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
